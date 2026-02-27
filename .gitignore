@@ -1,0 +1,4 @@
+mattermost/
+mattermost-*.tar.gz
+*.log
+
